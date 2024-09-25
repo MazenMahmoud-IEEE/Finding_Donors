@@ -67,6 +67,27 @@ The model predicts whether an individual earns more than \$50K (donates) or not,
    ```
 
 ---
+## Testing Section
+The model was tested on 50 random donors from the dataset to evaluate its real-world performance. Below are the testing results, showing both predictions and actual outcomes for a subset of customers:
+
+**Sample Predictions**:
+
+Customer 0: Prediction = 0, Actual = 1
+Customer 87: Prediction = 0, Actual = 0
+Customer 348: Prediction = 1, Actual = 1
+Customer 522: Prediction = 1, Actual = 1
+Customer 783: Prediction = 1, Actual = 1
+Customer 957: Prediction = 0, Actual = 0
+Customer 1131: Prediction = 0, Actual = 0
+Customer 1740: Prediction = 1, Actual = 1
+
+**Overall Results**:
+
+Correct Predictions: 45
+Incorrect Predictions: 5
+The model performed with high accuracy on random donor samples, correctly predicting most cases.
+
+----
 
 ## License
 
