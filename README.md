@@ -85,6 +85,7 @@ Customer 1740: Prediction = 1, Actual = 1
 
 Correct Predictions: 45 <br>
 Incorrect Predictions: 5 <br>
+
 The model performed with high accuracy on random donor samples, correctly predicting most cases.
 
 ----
