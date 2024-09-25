@@ -72,19 +72,19 @@ The model was tested on 50 random donors from the dataset to evaluate its real-w
 
 **Sample Predictions**:
 
-Customer 0: Prediction = 0, Actual = 1
-Customer 87: Prediction = 0, Actual = 0
-Customer 348: Prediction = 1, Actual = 1
-Customer 522: Prediction = 1, Actual = 1
-Customer 783: Prediction = 1, Actual = 1
-Customer 957: Prediction = 0, Actual = 0
-Customer 1131: Prediction = 0, Actual = 0
+Customer 0: Prediction = 0, Actual = 1 \n
+Customer 87: Prediction = 0, Actual = 0 \n
+Customer 348: Prediction = 1, Actual = 1 \n
+Customer 522: Prediction = 1, Actual = 1 \n
+Customer 783: Prediction = 1, Actual = 1 \n
+Customer 957: Prediction = 0, Actual = 0 \n
+Customer 1131: Prediction = 0, Actual = 0 \n
 Customer 1740: Prediction = 1, Actual = 1
 
 **Overall Results**:
 
-Correct Predictions: 45
-Incorrect Predictions: 5
+Correct Predictions: 45\n
+Incorrect Predictions: 5\n
 The model performed with high accuracy on random donor samples, correctly predicting most cases.
 
 ----
